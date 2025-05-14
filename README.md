@@ -1,4 +1,4 @@
 # Lab 6 - Starter
 Names: Gautam Mohandas
 
-GitHub Pages Link: 
+GitHub Pages Link: https://gmohandas13.github.io/Lab6/
